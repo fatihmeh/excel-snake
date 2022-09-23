@@ -11,4 +11,4 @@ To do:
 - [x] Add check function for self collision
 - [x] Add check function for generated baits and snake position
 - [x] Add scoreboard
-- [~] Add keyboard control (Unsuccessful due to VBA don't recognize keyboard input during a loop(snake movement))
+- [] Add keyboard control (Unsuccessful due to VBA don't recognize keyboard input during a loop(snake movement))
