@@ -10,5 +10,5 @@ Play old school snake game in Excel with buttons on a custom ribbon tab named 'S
 To do:
 - [x] Add check function for self collision
 - [x] Add check function for generated baits and snake position
-- [ ] Add scoreboard
-- [ ] Add keyboard control
+- [x] Add scoreboard
+- [~] Add keyboard control (Unsuccessful due to VBA don't recognize keyboard input during a loop(snake movement))
