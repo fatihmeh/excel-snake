@@ -7,5 +7,5 @@ Play old school snake game in Excel with buttons on a custom ribbon tab named 'S
 To do:
 - [x] Add check function for self collision fatihmehmetozcan/excel-snake@a2cafe8a
 - [x] Add check function for generated baits and snake position fatihmehmetozcan/excel-snake@a2cafe8a
-- [] Add scoreboard
-- [] Add keyboard control
+- [ ] Add scoreboard
+- [ ] Add keyboard control
